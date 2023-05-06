@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="api_key">IwAR0rYOBLAf8_qwH2gaoxTH8VtMtBfivKVchIkaNlwWwZnfbo1y2EWX0MjyA</string>
+    <string name="go">إذهب</string>
+    <string name="curency">حدد مصدر العملة
+</string>
+
+</resources>
